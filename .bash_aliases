@@ -13,6 +13,8 @@ alias copy="xclip -sel clip <"
 
 #npm
 alias ni="npm install"
+alias nis="npm install --save"
+alias nisd="npm install --save-dev"
 
 #git
 alias gst="git status"
